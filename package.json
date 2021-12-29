@@ -1,0 +1,19 @@
+{
+  "name": "zx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/which": "^2.0.1",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4",
+    "which": "^2.0.2",
+    "zx": "^4.2.0"
+  }
+}
